@@ -1,4 +1,4 @@
-,Cruise,Station,Type,mon/day/yr,hh:mm,Longitude,Latitude ,Depth[m] ,QF,Temperature[deg_C] ,QF.1,Salinity[PSU] ,QF\,density[kg/m3]
+,Cruise,Station,Type,mon/day/yr,hh:mm,Longitude,Latitude ,Depth ,QF,Temperature ,QF.1,Salinity ,QF\,density
 0,ct4-9908-04,130,C,7/28/04,18:57,-163.613,42.696000000000005,5,0,14.465,0,33.2279,0,1024.7480578398206
 1,ct4-9908-04,130,C,7/28/04,18:57,-163.613,42.696000000000005,6,0,14.4388,0,33.2328,0,1024.7618391677975
 2,ct4-9908-04,130,C,7/28/04,18:57,-163.613,42.696000000000005,7,0,14.4127,0,33.2377,0,1024.7755942448675
