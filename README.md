@@ -23,5 +23,5 @@ Week 8: Student questions and student feedback.
 
 1. We'd like to see you on Zoom, but if you aren't totally comfortable, feel free to use a virtual background!
 2. We may ask you to share your screen to show us your code - please be prepared to do this.
-3. Use the "hands" emoji in Zoom if you have a question
+3. Use the "raise hand" reaction in Zoom if you have a question
 4. Please try to keep your mic muted unless you are asking a question or have something you want to say to us. Also feel free to use the chat function in Zoom
