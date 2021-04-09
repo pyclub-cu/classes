@@ -4,9 +4,9 @@ This repository contains class notes for the classes in the pyclub program. The 
 
 Week 1: Intro to the course. This weeks lesson is hosted as a google slides deck at [this link](https://docs.google.com/presentation/d/1BEiBqc4DS8kRiUJX1IIEFivzC8j47Ce40CYyrBYOXrk/edit?usp=sharing)
 
-Week 2: [Print statements, strings, numbers and math](https://colab.research.google.com/github/pyclub-cu/classes/blob/master/Week2_student_copy.ipynb)
+Week 2: [Intro to Google Colab, print statements, strings and numbers](https://colab.research.google.com/github/pyclub-cu/classes/blob/master/Week2_student_copy.ipynb)
 
-Week 3: [Lists and variables](https://colab.research.google.com/github/pyclub-cu/classes/blob/master/Week_3_Lists_and_Maths.ipynb)
+Week 3: [Lists, variables and maths](https://colab.research.google.com/github/pyclub-cu/classes/blob/master/Week_3_Lists_and_Maths.ipynb)
 
 Week 4: [Ocean temperatures and robotic floats](https://colab.research.google.com/github/pyclub-cu/classes/blob/master/Week_4.ipynb)
 
