@@ -1,4 +1,4 @@
-# Classes for the pyclub program
+# Class Syllabus
 
 This repository contains class notes for the classes in the pyclub program. The notes are still under development. Except for week 1, clicking the link will open the google colab page for each class. 
 
